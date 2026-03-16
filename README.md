@@ -1,111 +1,92 @@
-# Lista de ExercÌcios 2025
+# Lista de Exerc√≠cios
 
-## IntroduÁ„o
+## Projeto
 
-ImplementaÁ„o Completa da Lista de ExercÌcios de LÛgica de ProgramaÁ„o incluindo estruturas de decis„o e repetiÁ„o.
+Desenvolvido durante o curso Fullstack da [Academia do Programador](https://www.academiadoprogramador.net) 2026
 
-## ExercÌcios
+## Introdu√ß√£o
 
-**Entrada, Processamento e SaÌda de Dados**
+Implementa√ß√£o completa da Lista de Exerc√≠cios de L√≥gica de Programa√ß√£o incluindo input/output, estruturas de decis√£o e repeti√ß√£o.
+
+## Exerc√≠cios
+
+**Entrada, Processamento e Sa√≠da de Dados**
 
 1. Crie um programa para calcular o volume de uma caixa retangular
 2. Crie um programa para calcular o volume de um Cilindro
-3. Crie um programa que calcule o consumo de combustÌvel por quilÙmetro percorrido em uma viagem. O
-programa deve solicitar ao usu·rio:
-	- A quilometragem inicial do veÌculo no inÌcio da viagem.
-	- A quilometragem final ao tÈrmino da viagem.
-	- A quantidade de combustÌvel consumida durante a viagem (em litros).
+3. Crie um programa que calcule o consumo de combust√≠vel por quil√¥metro percorrido em uma viagem. O
+   programa deve solicitar ao usu√°rio: - A quilometragem inicial do ve√≠culo no in√≠cio da viagem. - A quilometragem final ao t√©rmino da viagem. - A quantidade de combust√≠vel consumida durante a viagem (em litros).
 4. Crie um programa para converter a temperatura da escala Celsius para a escala Fahrenheit
-5. Crie um programa para calcular o sal·rio total de um vendedor. Dever· ser informado o sal·rio base e o total de
-vendas. A comiss„o È calculada com um percentual (informado pelo usu·rio) sobre o total de vendas.
-6. Crie um programa para calcular a mÈdia harmÙnica das notas de um Aluno
-7. Crie um programa para calcular a mÈdia ponderada de duas provas realizadas por um aluno
-8. Crie um programa para verificar se um n˙mero È primo.
-9. A imobili·ria ImÛbilis vende apenas terrenos retangulares. FaÁa um algoritmo para ler as dimensıes de um
-terreno e depois exibir a ·rea do terreno.
-10. A padaria Hotp„o vende uma certa quantidade de p„es franceses e uma quantidade de broas a cada dia. Cada
-p„ozinho custa R$ 0,12 e a broa custa R$ 1,50. Ao final do dia, o dono quer saber quanto arrecadou com a
-venda dos p„es e broas (juntos), e quanto deve guardar numa conta de poupanÁa (10% do total arrecadado).
-VocÍ foi contratado para fazer os c·lculos para o dono. Com base nestes fatos, faÁa um algoritmo para ler as
-quantidades de p„es e de broas, e depois calcular os dados solicitados.
+5. Crie um programa para calcular o sal√°rio total de um vendedor. Dever√° ser informado o sal√°rio base e o total de
+   vendas. A comiss√£o √© calculada com um percentual (informado pelo usu√°rio) sobre o total de vendas.
+6. Crie um programa para calcular a m√©dia harm√¥nica das notas de um Aluno
+7. Crie um programa para calcular a m√©dia ponderada de duas provas realizadas por um aluno
+8. Crie um programa para verificar se um n√∫mero √© primo.
+9. A imobili√°ria Im√≥bilis vende apenas terrenos retangulares. Fa√ßa um algoritmo para ler as dimens√µes de um
+   terreno e depois exibir a √°rea do terreno.
+10. A padaria Hotp√£o vende uma certa quantidade de p√£es franceses e uma quantidade de broas a cada dia. Cada
+    p√£ozinho custa R$ 0,12 e a broa custa R$ 1,50. Ao final do dia, o dono quer saber quanto arrecadou com a
+    venda dos p√£es e broas (juntos), e quanto deve guardar numa conta de poupan√ßa (10% do total arrecadado).
+    Voc√™ foi contratado para fazer os c√°lculos para o dono. Com base nestes fatos, fa√ßa um algoritmo para ler as
+    quantidades de p√£es e de broas, e depois calcular os dados solicitados.
 11. Escreva um algoritmo para ler o nome e a idade de uma pessoa, e exibir quantos dias de vida ela possui.
-Considere sempre anos completos, e que um ano possui 365 dias. Ex: uma pessoa com 19 anos possui 6935 dias
-de vida; veja um exemplo de saÌda: MARIA, VOC  J¡ VIVEU 6935 DIAS.
-12. FaÁa um algoritmo para ler o sal·rio de um funcion·rio e aument·-lo em 15%. ApÛs o aumento, desconte 8% de
-impostos. Imprima o sal·rio inicial, o sal·rio com o aumento e o sal·rio final.
+    Considere sempre anos completos, e que um ano possui 365 dias. Ex: uma pessoa com 19 anos possui 6935 dias
+    de vida; veja um exemplo de sa√≠da: MARIA, VOC√ä J√Å VIVEU 6935 DIAS.
+12. Fa√ßa um algoritmo para ler o sal√°rio de um funcion√°rio e aument√°-lo em 15%. Ap√≥s o aumento, desconte 8% de
+    impostos. Imprima o sal√°rio inicial, o sal√°rio com o aumento e o sal√°rio final.
 
-**Estruturas de Decis„o**
+**Estruturas de Decis√£o**
 
-13. FaÁa um algoritmo que leia os valores A, B, C e imprima na tela se a soma de A + B È menor que C.
-14. Escreva um algoritmo que leia trÍs valores inteiros e diferentes e mostre-os em ordem decrescente.
-15. O IMC ñ Õndice de Massa Corporal È um critÈrio da OrganizaÁ„o Mundial de Sa˙de para dar uma indicaÁ„o sobre
-a condiÁ„o de peso de uma pessoa adulta. A fÛrmula È IMC = peso / (altura) ≤. Elabore um algoritmo que leia o
-peso e a altura de um adulto e mostre sua condiÁ„o de acordo com a listagem abaixo:
+13. Fa√ßa um algoritmo que leia os valores A, B, C e imprima na tela se a soma de A + B √© menor que C.
+14. Escreva um algoritmo que leia tr√™s valores inteiros e diferentes e mostre-os em ordem decrescente.
+15. O IMC ‚Äì √çndice de Massa Corporal √© um crit√©rio da Organiza√ß√£o Mundial de Sa√∫de para dar uma indica√ß√£o sobre
+    a condi√ß√£o de peso de uma pessoa adulta. A f√≥rmula √© IMC = peso / (altura) ¬≤. Elabore um algoritmo que leia o
+    peso e a altura de um adulto e mostre sua condi√ß√£o de acordo com a listagem abaixo:
 
-	IMC em adultos:
+        IMC em adultos:
 
-	- Abaixo de 18,5: Abaixo do peso
-	- Entre 18,5 e 25: Peso normal
-	- Entre 25 e 30: Acima do peso
-	- Acima de 30: Obeso
+        - Abaixo de 18,5: Abaixo do peso
+        - Entre 18,5 e 25: Peso normal
+        - Entre 25 e 30: Acima do peso
+        - Acima de 30: Obeso
 
-16. FaÁa um algoritmo para receber um n˙mero qualquer e informar na tela se È par ou Ìmpar.
-17. FaÁa um algoritmo que leia dois valores inteiros A e B, se os valores forem iguais dever· se somar os dois, caso
-contr·rio multiplique A por B. Ao final de qualquer um dos c·lculos deve-se atribuir o resultado para uma
-vari·vel C e mostrar seu conte˙do na tela.
+16. Fa√ßa um algoritmo para receber um n√∫mero qualquer e informar na tela se √© par ou √≠mpar.
+17. Fa√ßa um algoritmo que leia dois valores inteiros A e B, se os valores forem iguais dever√° se somar os dois, caso
+    contr√°rio multiplique A por B. Ao final de qualquer um dos c√°lculos deve-se atribuir o resultado para uma
+    vari√°vel C e mostrar seu conte√∫do na tela.
 
-**Estruturas de RepetiÁ„o**
+**Estruturas de Repeti√ß√£o**
 
-18. Escrever um algoritmo que gera e escreve os n˙meros Ìmpares entre 100 e 200.
-19. Desenvolver um algoritmo que efetue a soma de todos os n˙meros Ìmpares que s„o m˙ltiplos de trÍs e que se
-encontram no conjunto dos n˙meros de 1 atÈ 500.
-20. Escrever um algoritmo que leia um valor para uma vari·vel N de 1 a 10 e calcule a tabuada de N. Mostre a
-tabuada na forma:
-	- 0 x N = 0,
-	- 1 x N = 1N,
-	- 2 x N = 2N,
-	- ...
-	- 10 x N = 10N.
-21. Escreva um algoritmo que leia um valor inicial A e imprima a sequÍncia de valores do c·lculo de A! e o seu
-resultado.
-	a. Ex: 5! = 5 X 4 X 3 X 2 X 1 = 120
-	b. Pesquise sobre ìfatorialî
-22. Escreva um programa que leia um n˙mero e imprima a sequÍncia de Fibonacci atÈ esse n˙mero.
-23. Escreva um programa que imprima os n˙meros de 1 a 100 em ordem crescente, substituindo os n˙meros
-m˙ltiplos de 3 pela palavra &quot;Fizz&quot; e os m˙ltiplos de 5 pela palavra &quot;Buzz&quot;. Para n˙meros que s„o m˙ltiplos de
-ambos, use &quot;FizzBuzz&quot;.
+18. Escrever um algoritmo que gera e escreve os n√∫meros √≠mpares entre 100 e 200.
+19. Desenvolver um algoritmo que efetue a soma de todos os n√∫meros √≠mpares que s√£o m√∫ltiplos de tr√™s e que se
+    encontram no conjunto dos n√∫meros de 1 at√© 500.
+20. Escrever um algoritmo que leia um valor para uma vari√°vel N de 1 a 10 e calcule a tabuada de N. Mostre a
+    tabuada na forma: - 0 x N = 0, - 1 x N = 1N, - 2 x N = 2N, - ... - 10 x N = 10N.
+21. Escreva um algoritmo que leia um valor inicial A e imprima a sequ√™ncia de valores do c√°lculo de A! e o seu
+    resultado.
+    a. Ex: 5! = 5 X 4 X 3 X 2 X 1 = 120
+    b. Pesquise sobre ‚Äúfatorial‚Äù
+22. Escreva um programa que leia um n√∫mero e imprima a sequ√™ncia de Fibonacci at√© esse n√∫mero.
+23. Escreva um programa que imprima os n√∫meros de 1 a 100 em ordem crescente, substituindo os n√∫meros
+    m√∫ltiplos de 3 pela palavra &quot;Fizz&quot; e os m√∫ltiplos de 5 pela palavra &quot;Buzz&quot;. Para n√∫meros que s√£o m√∫ltiplos de
+    ambos, use &quot;FizzBuzz&quot;.
 
-## Tecnologias
+## Como utilizar o programa
 
-[![Tecnologias](https://skillicons.dev/icons?i=git,github,cs,dotnet,visualstudio)](https://skillicons.dev)
+1. Clone o reposit√≥rio ou baixe o c√≥digo comprimido em .zip.
+2. Abra o emulador de terminal e navegue at√© a pasta raiz.
+3. Utilize o comando abaixo para restaurar as depend√™ncias do projeto.
 
-## Como utilizar
+   ```
+   dotnet restore
+   ```
 
-#### Clone o RepositÛrio
-```
-git clone https://github.com/academiadoprogramador-fullstack/lista-de-exercicios-2025.git
-```
+4. Em seguida compile e execute o projeto com o comando:
 
-#### Navegue atÈ a pasta raiz da soluÁ„o
-```
-cd lista-de-exercicios-2025
-```
-
-#### Restaure as dependÍncias
-```
-dotnet restore
-```
-
-#### Navegue atÈ a pasta do projeto
-```
-cd ListaDeExercicios.ConsoleApp
-```
-
-#### Execute o projeto
-```
-dotnet run
-```
+   ```
+   dotnet run --project Exercicio[N√∫mero do Exerc√≠cio].ConsoleApp
+   ```
 
 ## Requisitos
 
-- .NET SDK (recomendado .NET 8.0 ou superior) para compilaÁ„o e execuÁ„o do projeto.
+- .NET SDK 10.0
